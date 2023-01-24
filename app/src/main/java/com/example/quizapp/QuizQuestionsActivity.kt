@@ -38,8 +38,8 @@ class QuizQuestionsActivity : AppCompatActivity(),View.OnClickListener {
         val question=mQuestionsList!![mCurrentPosition-1]
         defaultOptionsView()
         if(mCurrentPosition==mQuestionsList!!.size){
-            btn_submit.text="FINISH"
-        }else{btn_submit.text="SUBMIT"}
+            btn_submit.text="Dokončiť"
+        }else{btn_submit.text="Potvrdiť"}
         progressBar.progress=mCurrentPosition
         tv_progress.text="$mCurrentPosition"+"/"+progressBar.getMax()
         tv_question.text=question!!.question
@@ -101,9 +101,9 @@ class QuizQuestionsActivity : AppCompatActivity(),View.OnClickListener {
                     }
                     answerView(question.correctAnswer,R.drawable.correct_option_border_bg)
                     if(mCurrentPosition==mQuestionsList!!.size){
-                        btn_submit.text="FINISH"
+                        btn_submit.text="Dokončiť"
                     }else{
-                        btn_submit.text="GO TO NEXT QUESTION"
+                        btn_submit.text="Dalšia otázka"
                     }
                     mSelectedOptionsPosition=0
                 }

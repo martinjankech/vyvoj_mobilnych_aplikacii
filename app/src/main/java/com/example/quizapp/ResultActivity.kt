@@ -13,7 +13,7 @@ class ResultActivity : AppCompatActivity() {
         tv_name.text=username
         val totalQuestions=intent.getIntExtra(Constants.TOTAL_QUESTIOMS,0)
         val correctAnswers = intent.getIntExtra(Constants.CORRECT_ANSWERS,0)
-        tv_score.text= "Your Score is $correctAnswers out of $totalQuestions"
+        tv_score.text= "Tvoje skóre je $correctAnswers z $totalQuestions"
         btn_finish.setOnClickListener{
             startActivity(Intent(this,MainActivity::class.java))
         }
