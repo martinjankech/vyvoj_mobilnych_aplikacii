@@ -9,6 +9,5 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![]([https://...Dark.png](https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213539_LogosQuizApp.jpg))  |  ![](https://...Ocean.png)
 
-
 [Kotlin.com]: https://avatars.githubusercontent.com/u/1446536?s=280&v=4
 [Kotlin-url]: https://kotlinlang.org/
