@@ -6,9 +6,9 @@ Kotlin+XML
 
 ## Ukažky používateľského rozhrania
 <p float="left">
-  <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213539_LogosQuizApp.jpg" width="200",height="400" />
-   <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213618_LogosQuizApp.jpg" width="200",height="400" /> 
-  <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213646_LogosQuizApp.jpg" width="200",height="400" /> 
+  <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213539_LogosQuizApp.jpg" width="200",height="400",padding-right: 10; />
+   <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213618_LogosQuizApp.jpg" width="200",height="400",padding-right: 10 /> 
+  <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213646_LogosQuizApp.jpg" width="200",height="400",padding-right: 10 /> 
   <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213712_LogosQuizApp.jpg" width="200",height="400" />
 </p>
 
