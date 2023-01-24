@@ -4,7 +4,7 @@ LogoGame je jednoduchá mobilná aplikácia určená pre platformu Android v kto
 ##Použité technológie
 * [![Kotlin][Kotlin.com]][Kotlin-url]
 
-##Ukažky používateľského rozhrania
+## Ukažky používateľského rozhrania
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](https://...Dark.png)  |  ![](https://...Ocean.png)
