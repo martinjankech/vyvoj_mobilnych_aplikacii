@@ -8,7 +8,7 @@ Kotlin+XML
 <p float="left">
   <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213539_LogosQuizApp.jpg" width="200",height="400" />
   <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213646_LogosQuizApp.jpg" width="200",height="400" /> 
-  <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213712_LogosQuizApp.jpgg" width="200",height="400" />
+  <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213712_LogosQuizApp.jpg" width="200",height="400" />
 </p>
 
 
