@@ -5,9 +5,11 @@ LogoGame je jednoduchá mobilná aplikácia určená pre platformu Android v kto
 * [![Kotlin][Kotlin.com]][Kotlin-url]
 
 ## Ukažky používateľského rozhrania
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213539_LogosQuizApp.jpg))  |  ![](https://...Ocean.png)
+<p float="left">
+  <img src="https://github.com/martinjankech/vyvoj_mobilnych_aplikacii/blob/master/pouzivatelske%20rozhranie%20fotky/Screenshot_20230124-213539_LogosQuizApp.jpg" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
 [Kotlin.com]: https://avatars.githubusercontent.com/u/1446536?s=280&v=4
 [Kotlin-url]: https://kotlinlang.org/
